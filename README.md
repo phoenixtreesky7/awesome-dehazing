@@ -17,8 +17,8 @@ This repository is the collection of dehazing methods. Among various dehazing al
 ## Dehazing methods
 
 ### Single image dehazing
-- MOF: Multi-scale Optimal Fusion model for single image dehazing, [Code](https://github.com/phoenixtreesky7/mof_dehazing)[Paper](https://www.sciencedirect.com/science/article/pii/S0923596518308804)
-    - Dong Zhao, Long Xu,Yihua Yan, Jie Chen, Ling-YuDuan. "Multi-scale Optimal Fusion model for single image dehazing" Signal Processing: Image Communication (2018)
+- MOF: Multi-scale Optimal Fusion model for single image dehazing, [[Code](https://github.com/phoenixtreesky7/mof_dehazing)[Paper](https://www.sciencedirect.com/science/article/pii/S0923596518308804)]
+    - Dong Zhao, Long Xu,Yihua Yan, Jie Chen, Ling-YuDuan. "Multi-scale Optimal Fusion model for single image dehazing." Signal Processing: Image Communication (2018)
 - Densely Connected Pyramid Dehazing Network [[Code](https://github.com/hezhangsprinter/DCPDN), [Paper](https://arxiv.org/abs/1803.08396)]
     - Zhang, He, and Vishal M. Patel. "Densely connected pyramid dehazing network." The IEEE Conference on Computer Vision and Pattern Recognition (CVPR). 2018.
 - Multi-band Enhancement [[Code](https://github.com/irapkaist/multi-band-enhancement), [Paper](http://irap.kaist.ac.kr/index.php/Main/Publication?action=bibentry&bibfile=ref.bib&bibref=ycho-2018-ral)]
